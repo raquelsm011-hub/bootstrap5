@@ -1,0 +1,4 @@
+html { scroll-behavior: smooth; }
+section { scroll-margin-top: 56px; } /* compensa a navbar fixa */
+#inicio .img-thumbnail { background-color: #212529; }
+.card-img-top { border-bottom: 1px solid rgba(0, 0, 0, .1); }
